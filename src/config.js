@@ -22,6 +22,14 @@ module.exports = {
       name: 'Kaggle',
       url: 'https://www.kaggle.com/rbhatnagar59',
     },
+    {
+      name: 'Linkedin',
+      url: 'https://www.linkedin.com/in/bchiang7',
+    },
+    {
+      name: 'Codepen',
+      url: 'https://codepen.io/bchiang7',
+    },
   ],
 
   navLinks: [
